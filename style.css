@@ -14,3 +14,16 @@ body{
     padding-bottom: 80px;
     padding-bottom: 80px;
 }
+header{
+    color:bisque;
+    font-size:35px;
+    border-bottom:3px solid aqua ;
+    padding: 20px;
+
+}
+.chamada-texto{
+    margin-right: 5%;
+}
+h1{
+    font-size: 36px;
+}
